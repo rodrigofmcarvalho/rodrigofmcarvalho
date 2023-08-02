@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Rodrigo</h1>
+<h1 align="center">Hi 👋, I'm Rodrigo. Be welcome!</h1>
 <h3 align="center">I'm passionate about data-related stuff. Feel lucky! You've just found my professional profile where I develop my data projects!</h3>
 
-- 🔭 I’m currently working on **Black Friday data pipeline**
+- 🔭 I’m currently working on something cool. 😉
 
-- 🌱 I’m currently learning **dbt**
+- 🌱 I’m currently learning dbt.
 
-- 📝 I regularly write articles on **[medium.com/@rodrigofmcarvalho](medium.com/@rodrigofmcarvalho)**
+- 📝 I regularly write articles on [medium.com/@rodrigofmcarvalho](medium.com/@rodrigofmcarvalho)
 
-- 💬 Ask me about **Airflow, Docker, Kafka, Python, Spark, and SQL**
+- 💬 Ask me about Airflow, Docker, Kafka, Python, Spark, and SQL.
 
-- 📫 Reach me via **rodrigofmcarvalho@gmail.com**
+- 📫 Reach me via rodrigofmcarvalho@gmail.com
 
-- 📄 Know about my experiences **[linkedin.com/in/rodrigofmcarvalho](linkedin.com/in/rodrigofmcarvalho)**
+- 📄 Know about my experiences [linkedin.com/in/rodrigofmcarvalho](linkedin.com/in/rodrigofmcarvalho)
 
-- ⚡ Fun fact **I'm an occasional tennis player**
+- ⚡ Fun fact I'm an occasional 🎾 player.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
